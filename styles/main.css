@@ -1,0 +1,28 @@
+@import url("https://fonts.googleapis.com/css?family=Comfortaa%7CPatua+One");
+/*Typography
+--------------------------------------------------------------*/
+body,
+button,
+select,
+textarea {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: large;
+  line-height: normal;
+  display: flex;
+  flex-direction: column; 
+  }
+
+  .date{
+    display: flex;
+    flex-direction: column;
+  }
+
+  .concepts{
+    display: flex;
+    flex-direction: column;
+  }
+
+  input{
+    width: fit-content;
+  }
+
